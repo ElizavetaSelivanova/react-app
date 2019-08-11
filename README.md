@@ -1,1 +1,1 @@
-# react-app
+Here is client ang server parts.

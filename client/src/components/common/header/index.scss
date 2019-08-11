@@ -1,0 +1,16 @@
+.header-block {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  &-content {
+    text-align: center;
+    position: relative;
+    margin: auto;
+    width: 100%;
+  }
+}

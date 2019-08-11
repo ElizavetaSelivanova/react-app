@@ -1,0 +1,17 @@
+.post {
+
+  .container {
+    margin: auto;
+    padding: 30px;
+  }
+
+  &-text {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  &-details {
+    padding: 20px 0;
+    opacity: 0.5;
+  }
+}
