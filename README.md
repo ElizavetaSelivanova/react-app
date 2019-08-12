@@ -1,1 +1,1 @@
-Here is client ang server parts.
+Here are client ang server parts of the test app.
